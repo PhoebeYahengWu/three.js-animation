@@ -1,3 +1,4 @@
 # three.js-animation
-![Untitled_ Jun 18, 2020 2_57 PM](https://user-images.githubusercontent.com/52837649/85061216-74ac6800-b174-11ea-9f33-f62461a0b554.gif)
+![threejs](https://user-images.githubusercontent.com/52837649/85069385-02db1b00-b182-11ea-8e1f-811b5d2f5986.gif)
+
 
